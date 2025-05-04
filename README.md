@@ -29,3 +29,5 @@ The entire project was done on a basic Java development setup using Notepad for 
 In conclusion, this recommendation system project taught me how to work with Java libraries, handle file input/output, and understand the basics of collaborative filtering. Apache Mahout made it easy to implement advanced logic without writing complex algorithms from scratch. Overall, it was a great learning experience and showed me how powerful even a simple Java application can be when integrated with machine learning tools.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/ba130e7b-d0cf-42d4-a32a-90e8aa0acf94)
